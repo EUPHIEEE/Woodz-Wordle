@@ -7,7 +7,6 @@ export const WORDS = [
   'lover',
   'woops',
   'drive',
-  'chaser',
   'vlive',
   'roots',
   'trees',
@@ -25,4 +24,10 @@ export const WORDS = [
   'bicon',
   'pizza',
   'candy',
+  'giant',
+  'bread',
+  'model',
+  'clown',
+  'gummy',
+  'crush',
 ]
