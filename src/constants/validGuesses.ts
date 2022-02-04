@@ -8955,7 +8955,7 @@ export const VALIDGUESSES = [
   'swats',
   'swayl',
   'sways',
-  'sweal',
+  'sweat',
   'swede',
   'sweed',
   'sweel',
