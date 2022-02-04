@@ -24,4 +24,5 @@ export const WORDS = [
   'wendy',
   'bicon',
   'pizza',
+  'candy',
 ]
