@@ -30,4 +30,5 @@ export const WORDS = [
   'clown',
   'gummy',
   'crush',
+  'album',
 ]
