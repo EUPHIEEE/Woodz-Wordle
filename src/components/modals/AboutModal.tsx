@@ -11,7 +11,8 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500 dark:text-gray-300">
         Woodz Version of Wordle. 
        <br/> Created by twitter @u4ia_twt.
-       <br/> For original open source code, see below. -{' '}
+       <br/> For original open source code, 
+       <br/> see below. -{' '}
         <a
           href="https://github.com/hannahcode/GAME"
           className="underline font-bold"
