@@ -22,4 +22,6 @@ export const WORDS = [
   'yours',
   'fight',
   'wendy',
+  'bicon',
+  'pizza',
 ]
