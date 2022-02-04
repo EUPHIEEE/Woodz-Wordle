@@ -9,6 +9,7 @@ export const VALIDGUESSES = [
   'abacs',
   'abaft',
   'abaka',
+  'floof',
   'abamp',
   'aband',
   'abash',
