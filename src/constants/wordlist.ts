@@ -20,7 +20,7 @@ export const WORDS = [
   'yours',
   'fight',
   'wendy',
-  'bicon',
+  'rehab',
   'pizza',
   'candy',
   'giant',
