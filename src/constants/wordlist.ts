@@ -14,10 +14,12 @@ export const WORDS = [
   'woods',
   'tiger',
   'korea',
+  'denim',
   'equal',
   'teamC',
   'light',
   'dream',
+  'mamma',
   'happy',
   'dance',
   'yours',
@@ -35,4 +37,5 @@ export const WORDS = [
   'crush',
   'album',
   'young',
+  'tired',
 ]
