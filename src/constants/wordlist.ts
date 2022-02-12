@@ -38,4 +38,5 @@ export const WORDS = [
   'album',
   'young',
   'tired',
+  'colde',
 ]
