@@ -3,6 +3,7 @@ export const VALIDGUESSES = [
   'aalii',
   'aargh',
   'aarti',
+  'teamc',
   'jaime',
   'abaca',
   'abaci',
